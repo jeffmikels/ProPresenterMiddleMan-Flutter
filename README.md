@@ -8,3 +8,5 @@ as the two ProPresenter instances you want to control, enter the networking deta
 the arrow to connect.
 
 Currently, the app will take slide trigger commands from the master and forward them to the slave.
+
+![Screenshot](/screenshot.jpg?raw=true "Screenshot")
